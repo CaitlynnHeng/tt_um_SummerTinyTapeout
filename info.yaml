@@ -3,7 +3,7 @@ project:
   title:        "Summer Tiny Tapeout"      # Project title
   author:       "Caitlynn Heng"      # Your name
   discord:      "NA"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Will update later"      # One line description of what your project does
+  description:  "SJSU Logo bounces off the walls of the screen."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
